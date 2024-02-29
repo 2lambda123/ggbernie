@@ -3,8 +3,8 @@
 ## Tech Stack
 2lambda123/ggbernie is built on the following main stack:
 
-- [Ruby](https://www.ruby-lang.org) – Languages
 - [R Language](http://www.r-project.org/) – Languages
+- [Ruby](https://www.ruby-lang.org) – Languages
 - [ggplot2](https://ggplot2.tidyverse.org/) – Charting Libraries
 
 Full tech stack [here](/techstack.md)
@@ -15,8 +15,8 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/ggbernie is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1213/r-logo.png' alt='R Language'/> [R Language](http://www.r-project.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/6560/New_Project__90_.png' alt='ggplot2'/> [ggplot2](https://ggplot2.tidyverse.org/) – Charting Libraries
 
 Full tech stack [here](/techstack.md)
@@ -28,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/ggbernie](https://github.com/2lambda123/ggbernie)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|7<br/>Tools used|01/09/24 <br/>Report generated|
+|7<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
